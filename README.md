@@ -2,7 +2,7 @@
 J’ai relevé le défi. Voici ce que ça donne :
 (N'oubliez pas de prendre des *[Fast Notes](https://play.google.com/store/apps/details?id=fr.mattd.notes)*)
 - **L’IA** : Pour gagner en efficacité et réduire le temps passé sur le boilerplate, sans sacrifier la qualité.
-- **Les histoires** : Comme *[BTonnes](https://play.google.com/store/apps/details?id=fr.mafyou.btonnes)*, un projet de 3 ans, ou encore mon aventure autour du *[Poker](https://play.google.com/store/apps/details?id=fr.mafyou.aideaupoker)*, où, ya 15ans, j’ai numérisé chaque carte capturée par mon APN pour en faire une expérience unique ( et sans problème de droit d'auteur surtout !).
+- **Les histoires** : Comme *[BTonnes](https://play.google.com/store/apps/details?id=fr.mafyou.btonnes)*, un projet de 3 ans, ou encore mon aventure autour du *[Poker](https://play.google.com/store/apps/details?id=fr.mafyou.aideaupoker)*, où, il y a 15ans, j’ai numérisé chaque carte capturée par mon APN pour en faire une expérience unique ( et sans problème de droit d'auteur surtout !).
 - **L’ajustement** : Avec des outils comme *[Commandements](https://play.google.com/store/apps/details?id=fr.mafyou.commandements)* et *[Fit Chronos](https://play.google.com/store/apps/details?id=fr.mattd.fit)*, je structure mon temps pour livrer des résultats concrets, sans compromis de timing.
 - **La discipline** : Grâce à *[BYM](https://play.google.com/store/apps/details?id=fr.mattd.bymapp)*, qui m’aide à rester focalisé et à éviter la procrastination.
 
