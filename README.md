@@ -26,12 +26,12 @@ Chaque projet a une **histoire unique** (et parfois cocasse) :
 ---
 ### **⏳ L’Ajustement et la Discipline**
 Pour livrer des **résultats concrets sans compromis**, j’utilise des outils qui me sauvent la mise :
-- **[Commandements](https://play.google.com/store/apps/details?id=fr.mafyou.commandements)** : Mon **anti-distraction** en mode pause café. Parce que sans ça, je perds le cap de la journée en 2 clics.
-- **[Fit Chronos](https://play.google.com/store/apps/details?id=fr.mattd.fit)** : Pour **optimiser mes séances de sport** (et étudier le *moins de clics possible* pour une expérience fluide).
+- **[Commandements](https://play.google.com/store/apps/details?id=fr.mafyou.commandements)** : Mon **anti-distraction** après une de pause café. Parce que sans ça, je perds le cap de la journée en 2 clics.
+- **[Fit Chronos](https://play.google.com/store/apps/details?id=fr.mattd.fit)** : Pour **optimiser mes séances de sport** et réduire les *clics possible* pour une expérience fluide.
 - **[BYM (Boost Your Mind)](https://play.google.com/store/apps/details?id=fr.mattd.bymapp)** : Mon **coach anti-procrastination** quand je suis au bout de ma vie avec une *flémmingite aiguë exponentielle*.
 
 💡 *Le résultat ?* Des projets comme :
-- **[Chercher dans Vos Favoris](https://play.google.com/store/apps/details?id=fr.mafyou.multisearches)** : Un outil pour **retrouver tes résultats de recherche UNIQUEMENT dans tes favoris** (parce que non, on ne veut pas des liens commerciaux ou des sites inconnus).
+- **[Chercher dans Vos Favoris](https://play.google.com/store/apps/details?id=fr.mafyou.multisearches)** : Un outil pour **retrouver vos résultats de recherche UNIQUEMENT dans les favoris séléctionnés** (parce que non, on ne veut pas des liens commerciaux ou des sites inconnus).
   - *Petit bonus* : Une fois qu’on a goûté à la recherche *propre*, on ne peut plus s’en passer. La qualité, c’est nos favoris, et c’est tout 😌.
 
 ---
