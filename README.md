@@ -11,5 +11,5 @@ J’ai tout mis en œuvre pour allier passion et performance. Le résultat ? Des
 Prêt à en discuter autour d’un café ?
 Que ce soit pour **rejoindre l’aventure** (Business Plan prêt) ou pour **collaborer** (*[CV](https://www.linkedin.com/in/mdupleix) disponible), je suis ouvert aux échanges et aux opportunités.
 
-** Alors ?**
+** Alors ?** 
 ps: Un programme de beta-test est [ouvert](https://mafyouit.tech/beta).
