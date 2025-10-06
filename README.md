@@ -2,7 +2,7 @@
 J’ai relevé le défi. Voici ce que ça donne après **15 ans d’expérimentation, de passion et de développement** :
 
 D’abord,
-**[Fast Notes](https://play.google.com/store/apps/details?id=fr.mattd.notes)** – Une app de prise de notes **rapide et collaborative**, conçue pour les 'Hommes Pressés'… et ceux qui aiment partager des feedback avec amour. ❤️
+**[Fast Notes](https://play.google.com/store/apps/details?id=fr.mattd.notes)** – Une app de prise de notes **rapide et collaborative**, conçue pour les *"Hommes Pressés"*… et ceux qui aiment partager des feedback avec amour ❤️.
 
 ---
 ### **💡 Ma Philosophie : Allier Passion et Performance**
@@ -27,7 +27,7 @@ Chaque projet a une **histoire unique** (et parfois cocasse) :
 ### **⏳ L’Ajustement et la Discipline**
 Pour livrer des **résultats concrets sans compromis**, j’utilise des outils qui me sauvent la mise :
 - **[Commandements](https://play.google.com/store/apps/details?id=fr.mafyou.commandements)** : Mon **anti-distraction** après une de pause café. Parce que sans ça, je perds le cap de la journée en 2 clics.
-- **[Fit Chronos](https://play.google.com/store/apps/details?id=fr.mattd.fit)** : Pour **optimiser mes séances de sport** et réduire les *clics possible* pour une expérience fluide.
+- **[Fit Chronos](https://play.google.com/store/apps/details?id=fr.mattd.fit)** : Pour **optimiser mes séances de sport** et réduire les *clics possibles* pour une expérience fluide.
 - **[BYM (Boost Your Mind)](https://play.google.com/store/apps/details?id=fr.mattd.bymapp)** : Mon **coach anti-procrastination** quand je suis au bout de ma vie avec une *flémmingite aiguë exponentielle*.
 
 💡 *Le résultat ?* Des projets comme :
